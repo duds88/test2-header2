@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>test2 - header and background image</title>
+<link href="./style.css" type="text/css" rel="stylesheet">
+</head>
+<body>
+<header>
+<div class="header-left">
+	<span><img src="./resources/ic-logo.svg"></span>
+	<span><p>Test header</p></span>
+</div>
+<div class="header-right">
+	<ul>
+		<li>home</li>
+		<li>about</li>
+		<li>contact</li>
+	</ul>
+	</div>
+</header>
+
+
+</body>
+</html>

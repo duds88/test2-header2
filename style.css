@@ -1,0 +1,32 @@
+p{
+color: red;
+}
+
+header{
+height: 100px;
+background-color: Aquamarine;
+}
+
+.header-left{
+display: flex;
+padding-top: 10px;
+}
+
+.header-left img{
+float: left;
+}
+.header-left p{
+float: left;
+}
+li{
+padding: 10px;
+}
+.header-right{
+padding-top: 10px;
+}
+
+.header-right li{
+float: right;
+display: inline-block;
+align-items: center;
+}
